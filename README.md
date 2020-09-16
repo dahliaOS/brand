@@ -2,7 +2,7 @@
     <b>Official dahliaOS brand assets</b> 
     </h1>
 
-<p align="center">The **dahliaOS** brand is unique and it belongs to the dahliaOS organization</p>
+<p align="center">The dahliaOS brand is unique and it belongs to the dahliaOS organization</p>
 
 <h2 align="center">
     <b>Logotype and logomark</b> 
