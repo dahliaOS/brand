@@ -16,17 +16,21 @@ The logotype/logomark should always be as they are unless they are:
 
 - on a white background, then use the version of the logotype/logomark with the drop shadow
 
-Logotype
+<h2 align="center">
+    <b>Logotype</b> 
+    </h2>
 
-<p>
+<p align="center">
   <img width="25%" src="https://github.com/dahlia-os/brand/blob/master/Logo%20SVGs/dahliaOS%20logo%20with%20text%20(drop%20shadow).svg"
 </p>
 
 The logotype is to be used when space allows to refer to dahliaOS, or it can be used before a product name to refer to a specific app/service of dahliaOS
 
-Logomark
+<h2 align="center">
+    <b>Logomark</b> 
+    </h2>
 
-<p>
+<p align="center">
   <img width="25%" src="https://github.com/dahlia-os/brand/blob/master/Logo%20SVGs/dahliaOS%20logo%20(drop%20shadow).svg"
 </p>
 
