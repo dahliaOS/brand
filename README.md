@@ -1,8 +1,12 @@
-# Official dahliaOS brand assets
+<h2 align="center">
+    <b>Official dahliaOS brand assets</b> 
+    </h2>
 
 The **dahliaOS** brand is unique and it belongs to the dahliaOS organization
 
-## Logotype and logomark
+<h2 align="center">
+    <b>Logotype and logomark</b> 
+    </h2>
 
 dahliaOS claims two marks: the “dahliaOS” logotype and the “dahliaOS” logomark
 
@@ -21,7 +25,7 @@ The logotype/logomark should always be as they are unless they are:
     </h2>
 
 <p align="center">
-  <img width="50%" src="https://github.com/dahlia-os/brand/blob/master/Logo%20SVGs/dahliaOS%20logo%20with%20text%20(drop%20shadow).svg"
+  <img width="60%" src="https://github.com/dahlia-os/brand/blob/master/Logo%20SVGs/dahliaOS%20logo%20with%20text%20(drop%20shadow).svg"
 </p>
 
 The logotype is to be used when space allows to refer to dahliaOS, or it can be used before a product name to refer to a specific app/service of dahliaOS
@@ -36,7 +40,9 @@ The logotype is to be used when space allows to refer to dahliaOS, or it can be 
 
 The “dahliaOS” logomark is to be used to refer to dahliaOS when there is not enough space for the full logotype or a square ratio is required
 
-## Project and product names
+<h2 align="center">
+    <b>Project and product names</b> 
+    </h2>
 
 dahliaOS is always lower-case, even when beginning sentences
 
@@ -44,11 +50,15 @@ It can also be used along with product names (for example, “dahliaOS App Store
 
 For clarity, dahliaOS should never be shortened to any abbreviation
 
-## Font
+<h2 align="center">
+    <b>Fonts</b> 
+    </h2>
 
 We use Sulphur Point for headings, for smaller headings and body text we use Roboto
 
-## Third Parties & Community
+<h2 align="center">
+    <b>3rd parties and community</b> 
+    </h2>
 
 We kindly ask third-party developers creating apps/designs for dahliaOS to adopt certain elements of the dahliaOS brand for consistency:
 
