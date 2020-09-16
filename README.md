@@ -18,13 +18,17 @@ The logotype/logomark should always be as they are unless they are:
 
 Logotype
 
-![dahliaOS logotype](https://github.com/dahlia-os/brand/blob/master/Logo%20PNGs/dahliaOS%20logo%20with%20text%20(drop%20shadow).png)
+<p>
+  <img width="25%" src="https://github.com/dahlia-os/brand/blob/master/Logo%20SVGs/dahliaOS%20logo%20with%20text%20(drop%20shadow).svg"
+</p>
 
 The logotype is to be used when space allows to refer to dahliaOS, or it can be used before a product name to refer to a specific app/service of dahliaOS
 
 Logomark
 
-![dahliaOS Logomark](https://github.com/dahlia-os/brand/blob/master/Logo%20PNGs/dahliaOS%20logo%20(drop%20shadow).png)
+<p>
+  <img width="25%" src="https://github.com/dahlia-os/brand/blob/master/Logo%20SVGs/dahliaOS%20logo%20(drop%20shadow).svg"
+</p>
 
 The “dahliaOS” logomark is to be used to refer to dahliaOS when there is not enough space for the full logotype or a square ratio is required
 
