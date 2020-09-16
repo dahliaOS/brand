@@ -1,6 +1,6 @@
-<h2 align="center">
+<h1 align="center">
     <b>Official dahliaOS brand assets</b> 
-    </h2>
+    </h1>
 
 <p align="center">The **dahliaOS** brand is unique and it belongs to the dahliaOS organization</p>
 
