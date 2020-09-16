@@ -21,7 +21,7 @@ The logotype/logomark should always be as they are unless they are:
     </h2>
 
 <p align="center">
-  <img width="35%" src="https://github.com/dahlia-os/brand/blob/master/Logo%20SVGs/dahliaOS%20logo%20with%20text%20(drop%20shadow).svg"
+  <img width="50%" src="https://github.com/dahlia-os/brand/blob/master/Logo%20SVGs/dahliaOS%20logo%20with%20text%20(drop%20shadow).svg"
 </p>
 
 The logotype is to be used when space allows to refer to dahliaOS, or it can be used before a product name to refer to a specific app/service of dahliaOS
