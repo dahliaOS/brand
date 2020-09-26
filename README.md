@@ -71,3 +71,13 @@ However, we restrict the usage of the dahliaOS name and marks:
 - You are encouraged to say that your app or service is “designed for dahliaOS,” but do not use the dahliaOS name or marks as part of the name of your company, application, product, or service—or in any logo you create
 
 - Only use the dahliaOS name or marks to refer to dahliaOS or its products
+
+## License
+
+<p align="left">
+  <img width="45%" src="https://github.com/dahlia-os/brand/blob/master/Logo%20PNGs/dahliaOS%20logo%20with%20text%20(drop%20shadow).png"
+</p>
+
+Copyright @ 2019-2020 The dahliaOS Authors contact@dahliaos.io
+
+This project is licensed under the [Apache 2.0 license](/LICENSE)
