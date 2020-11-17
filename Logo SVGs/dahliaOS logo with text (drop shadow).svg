@@ -17,11 +17,11 @@
 <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
 <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
 </filter>
-<linearGradient id="paint0_linear" x1="553.035" y1="554.467" x2="1442.67" y2="1445.53" gradientUnits="userSpaceOnUse">
+<linearGradient id="paint0_linear" x1="606.143" y1="606.143" x2="1393.86" y2="1393.86" gradientUnits="userSpaceOnUse">
 <stop stop-color="#C00000"/>
 <stop offset="1" stop-color="#FF4300"/>
 </linearGradient>
-<linearGradient id="paint1_linear" x1="553.035" y1="554.467" x2="1442.67" y2="1445.53" gradientUnits="userSpaceOnUse">
+<linearGradient id="paint1_linear" x1="606.143" y1="606.143" x2="1393.86" y2="1393.86" gradientUnits="userSpaceOnUse">
 <stop stop-color="#C00000"/>
 <stop offset="1" stop-color="#FF4300"/>
 </linearGradient>
