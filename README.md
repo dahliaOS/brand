@@ -62,8 +62,6 @@ We use Sulphur Point for headings, for smaller headings and body text we use Rob
 
 We kindly ask third-party developers creating apps/designs for dahliaOS to adopt certain elements of the dahliaOS brand for consistency:
 
-- Color
-
 - Fonts
 
 However, we restrict the usage of the dahliaOS name and marks:
