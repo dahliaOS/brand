@@ -25,7 +25,7 @@ The logotype/logomark should always be as they are unless they are:
     </h2>
 
 <p align="center">
-  <img width="60%" src="https://github.com/dahlia-os/brand/blob/master/Logo%20SVGs/dahliaOS%20logo%20with%20text%20(drop%20shadow).svg"
+  <img width="60%" src="https://github.com/dahliaos/brand/blob/master/Logo%20SVGs/dahliaOS%20logo%20with%20text%20(drop%20shadow).svg"
 </p>
 
 The logotype is to be used when space allows to refer to dahliaOS, or it can be used before a product name to refer to a specific app/service of dahliaOS
@@ -35,7 +35,7 @@ The logotype is to be used when space allows to refer to dahliaOS, or it can be 
     </h2>
 
 <p align="center">
-  <img width="25%" src="https://github.com/dahlia-os/brand/blob/master/Logo%20SVGs/dahliaOS%20logo%20(drop%20shadow).svg"
+  <img width="25%" src="https://github.com/dahliaos/brand/blob/master/Logo%20SVGs/dahliaOS%20logo%20(drop%20shadow).svg"
 </p>
 
 The “dahliaOS” logomark is to be used to refer to dahliaOS when there is not enough space for the full logotype or a square ratio is required
@@ -73,7 +73,7 @@ However, we restrict the usage of the dahliaOS name and marks:
 ## License
 
 <p align="left">
-  <img width="45%" src="https://github.com/dahlia-os/brand/blob/master/Logo%20PNGs/dahliaOS%20logo%20with%20text%20(drop%20shadow).png"
+  <img width="45%" src="https://github.com/dahliaos/brand/blob/master/Logo%20PNGs/dahliaOS%20logo%20with%20text%20(drop%20shadow).png"
 </p>
 
 Copyright @ 2019-2020 The dahliaOS Authors contact@dahliaos.io
