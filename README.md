@@ -1,6 +1,6 @@
 <p align="center">
-  <img width="80%" src="dahliaOS/logotype/svg/logotype.svg#gh-light-mode-only"/>
-  <img width="80%" src="dahliaOS/logotype/svg/logotype-monochrome.svg#gh-dark-mode-only"/>
+  <img width="60%" src="dahliaOS/logotype/svg/logotype.svg#gh-light-mode-only"/>
+  <img width="60%" src="dahliaOS/logotype/svg/logotype-monochrome.svg#gh-dark-mode-only"/>
 </p>
 
 <p align="center">
@@ -27,10 +27,13 @@ Both should be used with the following in mind:
 The logotype is to be used when space allows to refer to dahliaOS, or it can be used before a product name to refer to a specific app/service of dahliaOS.
 
 <p align="center">
-  <img width="80%" src="dahliaOS/logotype/svg/logotype.svg"/>
+  <img width="60%" src="dahliaOS/logotype/svg/logotype-light.svg"/>
   <br/>
   <br/>
-  <img width="80%" src="dahliaOS/logotype/svg/logotype-monochrome.svg"/>
+  <img width="60%" src="dahliaOS/logotype/svg/logotype-dark.svg"/>
+  <br/>
+  <br/>
+  <img width="60%" src="dahliaOS/logotype/svg/logotype-monochrome.svg"/>
 </p>
 
 ## Logomark
@@ -38,10 +41,10 @@ The logotype is to be used when space allows to refer to dahliaOS, or it can be 
 The “dahliaOS” logomark is to be used to refer to dahliaOS when there is not enough space for the full logotype or a square ratio is required.
 
 <p align="center">
-  <img width="40%" src="dahliaOS/logomark/svg/logomark.svg"/>
+  <img width="30%" src="dahliaOS/logomark/svg/logomark.svg"/>
   <br/>
   <br/>
-  <img width="40%" src="dahliaOS/logomark/svg/logomark-monochrome.svg"/>
+  <img width="30%" src="dahliaOS/logomark/svg/logomark-monochrome.svg"/>
 </p>
 
 ## Project and product names
@@ -66,17 +69,17 @@ Brand resources for our applications can be found under the [Applications](Appli
 
 Primary color: #FF3D00
 
-<p style="background-color: #ff3d00 ; padding: 10px; width: 20px; height: 20px"></p>
+<span style="background-color: #ff3d00 ; padding: 10px; width: 20px; height: 20px; color: white">Orange</span>
 <br/>
 
 Dark background color: #212121
 
-<p style="background-color: #212121 ; padding: 10px; width: 20px; height: 20px; border: 1px solid white;"></p>
+<span style="background-color: #212121 ; padding: 10px; width: 20px; height: 20px; border: 1px solid white;">Dark</span>
 <br/>
 
 Light background color: #FFFFFF
 
-<p style="background-color: #ffffff ; padding: 10px; width: 20px; height: 20px; border: 1px solid black;"></p>
+<span style="background-color: #ffffff ; padding: 10px; width: 20px; height: 20px; border: 1px solid black; color:black">Light</span>
 
 ## 3rd parties and community
 
@@ -97,8 +100,8 @@ If you're wondering how to contribute to the project, please refer to [CONTRIBUT
 ## License
 
 <p align="left">
-  <img width="40%" src="https://github.com/dahliaOS/brand/tree/main/dahliaOS/logotype/svg/logomark-monochrome.svg#gh-dark-mode-only"/>
-  <img width="40%" src="https://github.com/dahliaOS/brand/tree/main/dahliaOS/logotype/svg/logomark.svg#gh-light-mode-only"/>
+  <img width="40%" src="https://github.com/dahliaOS/brand/blob/main/dahliaOS/logotype/svg/logotype-dark.svg#gh-dark-mode-only"/>
+  <img width="40%" src="https://github.com/dahliaOS/brand/blob/main/dahliaOS/logotype/svg/logotype-light.svg#gh-light-mode-only"/>
 </p>
 
 Copyright @ 2019-2022 - The dahliaOS Authors - contact@dahliaos.io
