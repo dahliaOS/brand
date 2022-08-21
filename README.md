@@ -67,19 +67,11 @@ Brand resources for our applications can be found under the [Applications](Appli
 
 ## Colors
 
-Primary color: #FF3D00
+![#FF3D00](https://via.placeholder.com/15/FF3D00/FF3D00.png) Primary color: #FF3D00
 
-<span style="background-color: #ff3d00 ; padding: 10px; width: 20px; height: 20px; color: white">Orange</span>
-<br/>
+![#212121](https://via.placeholder.com/15/212121/212121.png) Dark background color: #212121
 
-Dark background color: #212121
-
-<span style="background-color: #212121 ; padding: 10px; width: 20px; height: 20px; border: 1px solid white;">Dark</span>
-<br/>
-
-Light background color: #FFFFFF
-
-<span style="background-color: #ffffff ; padding: 10px; width: 20px; height: 20px; border: 1px solid black; color:black">Light</span>
+![#FFFFFF](https://via.placeholder.com/15/FFFFFF/FFFFFF.png) Light background color: #FFFFFF
 
 ## 3rd parties and community
 
