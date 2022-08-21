@@ -1,6 +1,6 @@
 <p align="center">
-  <img width="60%" src="dahliaOS/logotype/svg/logotype.svg#gh-light-mode-only"/>
-  <img width="60%" src="dahliaOS/logotype/svg/logotype-monochrome.svg#gh-dark-mode-only"/>
+  <img width="60%" src="dahliaOS/logotype/svg/logotype-light.svg#gh-light-mode-only"/>
+  <img width="60%" src="dahliaOS/logotype/svg/logotype-dark.svg#gh-dark-mode-only"/>
 </p>
 
 <p align="center">
