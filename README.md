@@ -63,7 +63,7 @@ Brand resources for our applications can be found under the [Applications](Appli
 
 **Interface**: Inter
 
-**Website**: Roboto
+**Website**: Inter
 
 ## Colors
 
