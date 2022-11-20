@@ -55,7 +55,7 @@ For clarity, dahliaOS should never be shortened to any abbreviation.
 
 ## Applications
 
-Brand resources for our applications can be found under the [Applications](Applications/) folder.
+Brand resources for our applications can be found under the [Applications](Applications/) folder and the [icons](https://github.com/dahliaos/icons) repository.
 
 ## Fonts
 
