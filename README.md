@@ -53,10 +53,6 @@ dahliaOS is always lower-case, even when beginning sentences.
 It can also be used along with product names (for example, “dahliaOS App Store”) to refer to a specific application/service.
 For clarity, dahliaOS should never be shortened to any abbreviation.
 
-## Applications
-
-Brand resources for our applications can be found under the [Applications](Applications/) folder and the [icons](https://github.com/dahliaos/icons) repository.
-
 ## Fonts
 
 **Brand**: Sulphur Point
@@ -84,6 +80,12 @@ However, we restrict the usage of the dahliaOS name and marks:
 * You are encouraged to say that your app or service is “designed for dahliaOS,” but do not use the dahliaOS name or marks as part of the name of your company, application, product, or service—or in any logo you create.
 
 * Only use the dahliaOS name or marks to refer to dahliaOS or its products.
+
+## Other resources
+
+- Pangolin's brand resources can be found in the [Pangolin](./Pangolin) folder.
+
+- Application, system and other icons can be found in the [icons](https://github.com/dahliaos/icons) repository.
 
 ## Contribute
 
